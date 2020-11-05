@@ -1,0 +1,28 @@
+C:\Users\LUISK\Documents\web\Proyecto\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\Users\LUISK\Documents\web\Proyecto\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\Users\LUISK\Documents\web\Proyecto\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\Users\LUISK\Documents\web\Proyecto\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\LUISK\Documents\web\Proyecto\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\LUISK\Documents\web\Proyecto\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\LUISK\Documents\web\Proyecto\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\LUISK\Documents\web\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\Users\LUISK\Documents\web\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\Users\LUISK\Documents\web\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\Users\LUISK\Documents\web\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\LUISK\Documents\web\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\Users\LUISK\Documents\web\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\Users\LUISK\Documents\web\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.pdb
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\Users\USUARIO\Documents\PROYECTO BAJO WEB\Proyecto\Logica\obj\Debug\netstandard2.1\Logica.pdb

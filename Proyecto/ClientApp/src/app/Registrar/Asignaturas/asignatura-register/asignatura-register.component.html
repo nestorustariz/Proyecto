@@ -1,0 +1,76 @@
+<section class="content">
+    <h2 style="text-align: center;">Registro De Asignaturas</h2>
+    <form [formGroup]="registerForm" (submit)="onSubmit()">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="box-body">
+                    <div class="form-group">
+                        <label for="codAsignatura">Codigo Asignatura:</label>
+                        <input formControlName="codAsignatura" class="form-control"  [ngClass]="{ 'is-invalid': submitted && control.codAsignatura.errors}" name="codAsignatura" type="text" >
+                        <div *ngIf="submitted && control.codAsignatura.errors" class="invalid-feedback">
+                            <div *ngIf="control.codAsignatura.errors.required">Se require un codigo de asignatura</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="box-body">
+                    <div class="form-group">
+                        <label for="nombreAsignatura">Nombre Asignatura:</label>
+                        <input formControlName="nombreAsignatura" class="form-control" [ngClass]="{ 'is-invalid': submitted && control.nombreAsignatura.errors}" name="nombreAsignatura" type="text" >
+                        <div *ngIf="submitted && control.nombreAsignatura.errors" class="invalid-feedback">
+                            <div *ngIf="control.nombreAsignatura.errors.required">Se require un nombre de asignatura</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12"><br></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-3">
+                <button class="btn btn-primary form-control" type="submit">Registrar</button>
+            </div>
+            <div class="col-md-3">
+                <button class="btn btn-danger form-control" type="reset" (click)="onReset()">Cancelar</button>
+            </div>
+            <div class="col-md-3"></div>
+            <div class="col-md-12"><br></div>
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-header">
+                        <h3 class="box-title">Asignaturas</h3>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="box-body">
+                                <div class="input-group">
+                                    <input placeholder="Buscar" class="form-control">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-body">
+                        <table class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Codigo</th>
+                                    <th>Nombre</th>
+                                   
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr *ngFor="let asignatura of asignaturas; index as i">
+                                    <td scope="row">{{ i + 1}}</td>
+                                    <td>{{asignatura.codAsignatura}}</td>
+                                    <td>{{asignatura.nombreAsignatura}}</td>
+                                    
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+    
+</section>
